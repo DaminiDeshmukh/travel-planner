@@ -1,5 +1,7 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/ITHfX2CmBRfVZimKKniY" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
+https://www.travelplannerai.online/
+
 # Travel Planner AI - Gateway to Seamless Smart Travel Plan
 Welcome to Travel Planner AI, your ultimate travel companion designed to simplify the process of planning your next adventure.
 Whether you're dreaming of a weekend getaway or a month-long expedition, Travel Planner AI is here to help you meticulously craft your next travel itinerary.
@@ -28,23 +30,7 @@ Check out the live demo [﻿here](https://travelplannerai.online/).
 
 
 
-## Installation
-To run the Travel Planner AI, follow these steps:
 
-1. Clone the repository:git clone [﻿https://github.com/hardikverma22/travel-planner-ai](https://github.com/hardikverma22/travel-planner-ai) 
-2. Navigate to the project directory:cd travel-planner-ai
-3. Install the dependencies:npm install
-4. Start the development server:npm run dev
-5. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/)  to see the app in action.
-## Technologies Used
-- Travel Planner AI is built using cutting-edge technologies to ensure a seamless user experience.
-- **Next.js 14:** Leveraging the latest advancements in Next.js for efficient web application development.
-- **Tailwind CSS with Shadcn-UI:** Utilizing Tailwind CSS with Shadcn-UI for responsive and visually stunning user interfaces.
-- **Convex Backend Platform:** Powering our backend infrastructure for robust performance and scalability.
-- **OpenAI APIs:** Harnessing the power of OpenAI's APIs for intelligent content generation and natural language processing.
-- **Clerk:** Providing secure authentication solutions to safeguard user accounts and data.
-- **Razorpay:** Facilitating seamless payment processing supporting wide range of payment methods.
-- **Resend:** For sending email invites using my custom domain.
 ## Contributing
  Contributions are welcome! If you'd like to contribute to Shoe Forge, please follow these steps:
 
